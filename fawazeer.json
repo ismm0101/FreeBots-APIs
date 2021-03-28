@@ -1,10 +1,12 @@
 [
     {
         "Question": "من هو مبرمج البوت؟",
+        "Thumbnail": "https://cdn.discordapp.com/attachments/771478954166845500/825695940983652372/ab5801328d89d7ec6773cca084033310a38b253ar1-1849-1261v2_uhq.png",
         "Answer": "محمد"
     },
     {
         "Question": "من هو التيس؟",
+        "Thumbnail": "https://cdn.discordapp.com/attachments/771478954166845500/825695940983652372/ab5801328d89d7ec6773cca084033310a38b253ar1-1849-1261v2_uhq.png",
         "Answer": "قراي"
     }
 ]
